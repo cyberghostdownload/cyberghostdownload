@@ -1,5 +1,5 @@
 
-======================================================
+
 How to Download CyberGhost VPN: Complete Setup Guide?
 ======================================================
 .. image:: https://img.shields.io/badge/Download-Now-1E90FF?style=for-the-badge&logo=icloud&logoColor=white
